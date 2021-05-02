@@ -25,7 +25,7 @@ The dataset contains eye images of 37 candidates. So for our project we created 
 - flask
 
 ---
-### About the project ###
+### Execution ###
 We have created a website as well for running the project using flask. If you want to run the model on your system then run the **test1.py** file.
 Firstly, to start with the project, the user first needs to go to the website and should click on Start button. Once the button is clicked, the webcam gets turned on & it starts detecting the face and eyes. After the detection of the eyes, it splits the eyes into left & right and it is then fed to the model. The model then checks whether the eyes are open or not. If the eyes are open, the status is shown as **Active** & if the eyes are closed, the status is shown as **Sleep Alert** and beeps for the user to become aware.
 
