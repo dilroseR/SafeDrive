@@ -5,7 +5,7 @@ The model is trained using the **Transfer Learning technique** in the domain of 
 Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task(i.e to retrain a pre-trained model).
 There are various classifiers in Transfer learning namely MobileNet, GoogleNet, ResNet, VGG16 etc. 
 In our project, we have used the MobileNet model.
-MobileNet is a light-weighted model having fewer parameters compared to others.
+MobileNet is a light-weighted model having fewer parameters as compared to others.
 
 ---
 ### About the dataset ###
