@@ -12,7 +12,6 @@ The dataset that we have used for the project is a MRL Dataset.
 [Download from here](http://mrl.cs.vsb.cz/eyedataset)
 
 The dataset contains eye images of 37 candidates. So for our project we created two separate folders namely Train_Dataset and Test_Dataset. In each of these folders , we created two more folders with the names Closed_Eyes and Open_Eyes. We kept 3000 images of closed and open eyes from the actual dataset into Train_Dataset and 900 images in Test_Dataset.
-![image](https://user-images.githubusercontent.com/70878223/116820244-94345f80-ab91-11eb-995c-50a7ba998b90.png)
 
 
 ### To run the project, install the following dependencies: ###
