@@ -12,7 +12,7 @@ MobileNet is a light-weighted model having fewer parameters as compared to other
 The dataset that we have used for the project is a MRL Eye Dataset.
 [Download from here](http://mrl.cs.vsb.cz/eyedataset)
 
-The dataset contains eye images of 37 candidates. So for our project we created two separate folders namely Train_Dataset and Test_Dataset. In each of these folders , we created two more folders with the names Closed_Eyes and Open_Eyes. We kept 3000 images of closed and open eyes from the actual dataset into Train_Dataset and 900 images in Test_Dataset.
+The dataset contains eye images of 37 candidates. So for our project we created two separate folders namely Train_Dataset and Test_Dataset. In each of these folders , we created two more folders with the names Closed_Eyes and Open_Eyes. We kept 8000 images of closed and open eyes from the actual dataset into Train_Dataset and 2500 images in Test_Dataset.
 
 ![image](https://user-images.githubusercontent.com/70878223/116820317-09a03000-ab92-11eb-8284-1c5e4162964e.png)
 
